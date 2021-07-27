@@ -1,11 +1,16 @@
 _repo: Tirant-lo-Blanch-a-study-of-its-authorship-principal-sources-and-historical-setting_65913
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65913-h/images/cover.jpg
 creator:
   author:
     agent_name: Vaeth, Joseph Anthony
     gutenberg_agent_id: '53546'
     url: http://www.gutenberg.org/2009/agents/53546
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65913#Tirant-lo-Blanch-a-study-of-its-authorship-principal-sources-and-historical-setting
 gutenberg_issued: '2021-07-24'
 gutenberg_type: Text
 identifiers:
